@@ -1,10 +1,10 @@
-# 📚 Comic Reader App for Samsung S22 Ultra
+# 📚 Comic Reader App 
 
-A beautiful React Native comic and manga reading app optimized for your Samsung S22 Ultra!
+A beautiful React Native comic and manga reading app optimized for my Samsung S22 ultra
 
 ## 🚀 Quick Start
 
-### Step 1: Install Node.js
+## Step 1: Install Node.js
 1. Go to [nodejs.org](https://nodejs.org/)
 2. Download and install the latest LTS version
 3. Restart your computer after installation
@@ -30,7 +30,7 @@ npm install -g @expo/cli
    npm start
    ```
 
-### Step 4: Run on Your Samsung S22 Ultra
+### Step 4: Run on Your Phone
 1. Download "Expo Go" from Google Play Store
 2. Scan the QR code that appears in your terminal
 3. The app will load on your phone!
@@ -42,12 +42,12 @@ npm install -g @expo/cli
 - **🔍 Search**: Find comics and manga
 - **⚙️ Settings**: Manage extensions and app preferences
 - **🌙 Dark Theme**: Perfect for reading
-- **📱 Samsung S22 Ultra Optimized**: Beautiful on your large screen
+n
 
 ## 📁 Project Structure
 
 ```
-ComicReaderApp/
+Comix/
 ├── src/
 │   └── screens/          # App screens
 ├── App.tsx              # Main app component
@@ -73,12 +73,6 @@ ComicReaderApp/
 
 The app uses a dark theme with red (#FF6B6B) and teal (#4ECDC4) accents. You can modify colors in the StyleSheet objects in each screen file.
 
-## 📱 Samsung S22 Ultra Features
-
-- Optimized for large screen (6.8" display)
-- High resolution support
-- Smooth scrolling and animations
-- Touch-friendly interface
 
 ## 🔧 Development
 
@@ -93,8 +87,9 @@ If you have any issues:
 1. Check the troubleshooting section above
 2. Make sure you have the latest version of Node.js
 3. Try clearing the Metro cache: `npx expo start --clear`
+4. email me @trevordonnell07@gmail.com
 
----
 
-**Enjoy reading comics on your Samsung S22 Ultra! 📚✨**
+
+
 
