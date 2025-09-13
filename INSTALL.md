@@ -1,13 +1,8 @@
 # 🚀 Quick Installation Guide
-
-## Your Comic Reader App is Ready!
-
-The app is located at: `C:\Users\trevo\Code\ComicReaderApp`
-
 ## 📋 Prerequisites
 
 1. **Node.js** - Download from [nodejs.org](https://nodejs.org/)
-2. **Expo Go App** - Download from Google Play Store on your Samsung S22 Ultra
+2. **Expo Go App** - Download from Google Play Store 
 
 ## 🛠️ Installation Steps
 
@@ -26,20 +21,19 @@ The app is located at: `C:\Users\trevo\Code\ComicReaderApp`
 
 ### Step 3: Run the App
 1. Open Command Prompt or PowerShell
-2. Navigate to the app folder:
-   ```bash
-   cd C:\Users\trevo\Code\ComicReaderApp
-   ```
-3. Install dependencies:
+
+3. Navigate to the app folder
+
+4. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the app:
+5. Start the app:
    ```bash
    npm start
    ```
 
-### Step 4: Run on Your Samsung S22 Ultra
+### Step 4: Run on Your phone
 1. Download "Expo Go" from Google Play Store
 2. Open Expo Go on your phone
 3. Scan the QR code that appears in your terminal
@@ -69,7 +63,7 @@ The app is located at: `C:\Users\trevo\Code\ComicReaderApp`
 ## 📱 Features
 
 - Beautiful dark theme optimized for reading
-- Responsive design for Samsung S22 Ultra's large screen
+- Responsive design 
 - Mock data included for immediate testing
 - Easy to customize and extend
 
@@ -80,4 +74,5 @@ You can modify the app by editing files in the `src/screens/` folder. The app wi
 ---
 
 **Enjoy your new Comic Reader app! 📚✨**
+
 
