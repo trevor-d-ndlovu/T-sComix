@@ -17,15 +17,14 @@ npm install -g @expo/cli
 
 ### Step 3: Run the App
 1. Open Command Prompt/PowerShell
-2. Navigate to the ComicReaderApp folder:
-   ```bash
-   cd C:\Users\trevo\Code\ComicReaderApp
-   ```
-3. Install dependencies:
+   
+3. Navigate to the ComicReaderApp folder:
+
+4. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the app:
+5. Start the app:
    ```bash
    npm start
    ```
@@ -88,6 +87,7 @@ If you have any issues:
 2. Make sure you have the latest version of Node.js
 3. Try clearing the Metro cache: `npx expo start --clear`
 4. email me @trevordonnell07@gmail.com
+
 
 
 
